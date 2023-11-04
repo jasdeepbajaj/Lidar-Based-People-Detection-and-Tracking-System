@@ -1,0 +1,33 @@
+rosbag2_bagfile_information:
+  compression_format: ''
+  compression_mode: ''
+  custom_data: {}
+  duration:
+    nanoseconds: 18010316041
+  files:
+  - duration:
+      nanoseconds: 18010316041
+    message_count: 181
+    path: example4.db3
+    starting_time:
+      nanoseconds_since_epoch: 1391467531391366966
+  message_count: 181
+  relative_file_paths:
+  - example4.db3
+  starting_time:
+    nanoseconds_since_epoch: 1391467531391366966
+  storage_identifier: sqlite3
+  topics_with_message_count:
+  - message_count: 37
+    topic_metadata:
+      name: /tf
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: tf2_msgs/msg/TFMessage
+  - message_count: 144
+    topic_metadata:
+      name: /scan
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/LaserScan
+  version: 6

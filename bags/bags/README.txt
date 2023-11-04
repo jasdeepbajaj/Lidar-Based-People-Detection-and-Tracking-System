@@ -1,0 +1,9 @@
+example1.bag 1
+example2.bag 3
+example3.bag 2
+example4.bag 1
+example5.bag 2
+example6.bag 2
+example7.bag 5
+example8.bag 4
+example9.bag 15
