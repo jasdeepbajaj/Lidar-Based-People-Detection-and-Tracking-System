@@ -25,6 +25,10 @@ The project provides a collection of bag files recorded by a robot equipped with
     ```bash
     colcon build --packages-select project3
     ```
+### Parameters and Tuning
+Movement Detection Threshold, Euclidean Clustering Parameters (distance tolerance, min/max cluster size), and Tracking Update Interval were empirically determined for optimal performance.
+Results and Expectations
+The system demonstrated high accuracy in detecting and tracking people in various test scenarios. Fine-tuning parameters allowed for significant improvements, especially in challenging conditions like crowded environments or at the edges of the LIDAR range.
    
 ## Launch File Usage
 
